@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre Completo]
 
-<!--
-**MariaMactzul/MariaMactzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mí
 
-Here are some ideas to get you started:
+Soy un desarrolladora de web, apasionado por la programación, la resolución de problemas. Disfruto trabajar en proyectos colaborativos, aprender nuevas tecnologías y compartir conocimiento con la comunidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi enfoque actual está en el desarrollo **web full-stack**. También me interesa el mundo de la automatización, la inteligencia artificial y el análisis de datos.
+
+---
+
+## 🧠 Conocimientos y habilidades
+
+- 🔹 Lenguajes: **JavaScript**, **HTML/CSS**
+- 🔹 Frameworks: **React**
+- 🔹 DevOps: **Git**, **GitHub**, **Docker**
+- 🔹 Herramientas: **Visual Studio Code**
+
+---
+
+## 🧰 Lenguajes y herramientas
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 💬 Frase favorita
+
+> *“El software es una gran combinación entre arte e ingeniería.” – Bill Gates*
+
+---
+
+*Gracias por visitar mi perfil 😄 ¡Feliz programación!*
