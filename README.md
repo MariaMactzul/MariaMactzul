@@ -11,7 +11,7 @@ Mi enfoque actual está en el desarrollo **web full-stack**. También me interes
 ## 🧠 Conocimientos y habilidades
 
 - 🔹 Lenguajes: **JavaScript**, **HTML/CSS**
-- 🔹 Frameworks: **Boostrap**
+- 🔹 Frameworks: **Bootstrap**
 - 🔹 DevOps: **Git**, **GitHub**
 - 🔹 Herramientas: **Visual Studio Code**
 
